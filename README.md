@@ -1,6 +1,6 @@
 # Financial Reporting and Analysis with Power BI
 
-![Financial Reporting with Power BI](images/financial_reporting.png)
+![Financial Reporting with Power BI](assets/img/financial_reporting.png)
 
 ## Executive Summary
 
