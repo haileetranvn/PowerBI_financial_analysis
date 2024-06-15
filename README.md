@@ -54,11 +54,11 @@ Analysis of the US market revealed fluctuations in revenue and net profit, influ
 - **Gross Profit Decline**: The gross profit decreased by $182,767 during the same period.
 - **Net Profit Decline**: The net profit dropped significantly and was lower than that of New Zealand and France.
 
-### 3. Comparative Analysis
+### Comparative Analysis
 - **Quarterly Comparison**: Compared the financial performance of the USA market between Q4 2019 and Q1 2020.
 - **Regional Comparison**: Analyzed how the USA's financial metrics stacked up against those of New Zealand and France.
 
-### 4. Root Cause Analysis
+### Root Cause Analysis
 - **Market Conditions**: Examined external factors such as market competition, economic conditions, and consumer behavior changes that could have impacted sales revenue.
 - **Internal Factors**: Investigated internal issues like supply chain disruptions, pricing strategy adjustments, and changes in marketing effectiveness.
 - **Operational Efficiency**: Assessed any inefficiencies or increased costs in operations that could have contributed to the decline in gross profit and net profit.
@@ -68,7 +68,7 @@ Based on the findings from the analysis, the following strategic plan was develo
 
 ### 1. Cost Optimization
 - **Material Costs**: Negotiate better rates with suppliers to reduce material costs.
-- 
+  
 ### 2. Revenue Enhancement
 - **Pricing Strategy**: Reevaluate and adjust pricing strategies to remain competitive while maintaining healthy profit margins.
 - **Product Mix Optimization**: Focus on high-margin products and discontinue low-performing items.
@@ -82,8 +82,8 @@ Reduction in Marketing Expenses (Q4 2019 to Q1 2020): The decision to decrease t
 - Sales revenue consistently increased, supported by robust marketing efforts. This correlation underscores the importance of sustained marketing activities in driving revenue growth.
 - **Budget Cut Impact**: The reduction of the marketing budget by $22,544 starting in Q4 2019 led to immediate and negative effects on sales revenue. This decision likely resulted in decreased brand visibility and reduced customer engagement.
 ### 4. Strategic Recommendations
--**Agility and Adaptation**: Foster an agile marketing strategy that can quickly adapt to market changes and emerging trends.
--**Multichannel Approach**: Develop an integrated marketing strategy that combines digital, traditional, and experiential marketing efforts to reach a broader audience and enhance brand recognition.
+- **Agility and Adaptation**: Foster an agile marketing strategy that can quickly adapt to market changes and emerging trends.
+- **Multichannel Approach**: Develop an integrated marketing strategy that combines digital, traditional, and experiential marketing efforts to reach a broader audience and enhance brand recognition.
 
 ## Conclusion
 The significant decline in the financial performance of the USA market in Q1 2020 requires a multifaceted approach to address the underlying issues. By focusing on cost optimization, revenue enhancement; most important is  targeted marketing. Company A can mitigate the impact of these challenges and improve its financial health. Continuous monitoring and analysis will be essential to ensure the effectiveness of these strategies and to make data-driven adjustments as needed.
