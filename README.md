@@ -10,7 +10,7 @@ Company A's sales revenue, showed the following figures:
 - **2018**: $623,856
 - **2019**: $1,303,147
 - **2020**: $1,289,945
-- **Sales** million: 
+- **Sales**: 
   - 2018: $3,575,428 
   - 2019: $5,697,845 
   - 2020: $7,835,369 
