@@ -80,7 +80,7 @@ Reduction in Marketing Expenses (Q4 2019 to Q1 2020): The decision to decrease t
 
 - **Root Cause Analysis**: From Q1 2019 to Q3 2019, Company A's marketing expenses remained stable. This period saw steady sales revenue growth, suggesting that consistent marketing investment effectively maintained customer engagement and brand visibility.
 - **Revenue Growth Correlation**: Sales revenue consistently increased, supported by robust marketing efforts. This correlation underscores the importance of sustained marketing activities in driving revenue growth.
-**Budget Cut Impact**: The reduction of the marketing budget by $22,544 starting in Q4 2019 led to immediate and negative effects on sales revenue. This decision likely resulted in decreased brand visibility and reduced customer engagement.
+- **Budget Cut Impact**: The reduction of the marketing budget by $22,544 starting in Q4 2019 led to immediate and negative effects on sales revenue. This decision likely resulted in decreased brand visibility and reduced customer engagement.
 ### 4. Strategic Recommendations
 - **Agility and Adaptation**: Foster an agile marketing strategy that can quickly adapt to market changes and emerging trends.
 - **Multichannel Approach**: Develop an integrated marketing strategy that combines digital, traditional, and experiential marketing efforts to reach a broader audience and enhance brand recognition.
