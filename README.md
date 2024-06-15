@@ -50,8 +50,8 @@ Analysis of the US market revealed fluctuations in revenue and net profit, influ
 ![Countries](/assets/CrossCountry.png/)
 
 ### Key Findings
-- **Sales Revenue Decline**: The sales revenue in the USA experienced a significant decrease from $240,835 million in Q4 2019 to a lower figure in Q1 2020.
-- **Gross Profit Decline**: The gross profit decreased by $182,767 million during the same period.
+- **Sales Revenue Decline**: The sales revenue in the USA experienced a significant decrease from $240,835 in Q4 2019 to $91,910 in Q1 2020.
+- **Gross Profit Decline**: The gross profit decreased by $182,767 during the same period.
 - **Net Profit Decline**: The net profit dropped significantly and was lower than that of New Zealand and France.
 
 ### 3. Comparative Analysis
@@ -68,15 +68,22 @@ Based on the findings from the analysis, the following strategic plan was develo
 
 ### 1. Cost Optimization
 - **Material Costs**: Negotiate better rates with suppliers to reduce material costs.
-- **Operational Efficiency**: Implement process improvements and automation to enhance operational efficiency and reduce overhead costs.
-
+- 
 ### 2. Revenue Enhancement
 - **Pricing Strategy**: Reevaluate and adjust pricing strategies to remain competitive while maintaining healthy profit margins.
 - **Product Mix Optimization**: Focus on high-margin products and discontinue low-performing items.
 
 ### 3. Marketing and Sales Strategy
-- **Targeted Marketing**: Increase marketing efforts in high-potential segments and leverage data analytics to target key customer groups.
-- **Sales Incentives**: Introduce sales incentives and training programs to boost sales team performance and drive revenue growth.
+![Marketing Analysis](/assets/marketing.png/)
+
+Reduction in Marketing Expenses (Q4 2019 to Q1 2020): The decision to decrease the marketing budget by $22,544 coincided with a significant decline in sales revenue in subsequent quarters.
+- **Root Cause Analysis**:
+- From Q1 2019 to Q3 2019, Company A's marketing expenses remained stable. This period saw steady sales revenue growth, suggesting that consistent marketing investment effectively maintained customer engagement and brand visibility.
+- Sales revenue consistently increased, supported by robust marketing efforts. This correlation underscores the importance of sustained marketing activities in driving revenue growth.
+- **Budget Cut Impact**: The reduction of the marketing budget by $22,544 starting in Q4 2019 led to immediate and negative effects on sales revenue. This decision likely resulted in decreased brand visibility and reduced customer engagement.
+### 4. Strategic Recommendations
+-**Agility and Adaptation**: Foster an agile marketing strategy that can quickly adapt to market changes and emerging trends.
+-**Multichannel Approach**: Develop an integrated marketing strategy that combines digital, traditional, and experiential marketing efforts to reach a broader audience and enhance brand recognition.
 
 ## Conclusion
-The significant decline in the financial performance of the USA market in Q1 2020 requires a multifaceted approach to address the underlying issues. By focusing on cost optimization, revenue enhancement, and targeted marketing. Company A can mitigate the impact of these challenges and improve its financial health. Continuous monitoring and analysis will be essential to ensure the effectiveness of these strategies and to make data-driven adjustments as needed.
+The significant decline in the financial performance of the USA market in Q1 2020 requires a multifaceted approach to address the underlying issues. By focusing on cost optimization, revenue enhancement; most important is  targeted marketing. Company A can mitigate the impact of these challenges and improve its financial health. Continuous monitoring and analysis will be essential to ensure the effectiveness of these strategies and to make data-driven adjustments as needed.
