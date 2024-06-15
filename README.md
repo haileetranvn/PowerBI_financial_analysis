@@ -44,12 +44,10 @@ While Company A has achieved substantial revenue growth, maintaining profitabili
 
 By addressing these strategic areas, Company A can sustain growth and profitability in a competitive market landscape.
 
-## US Market Analysis
-![Countries](/assets/CrossCountry.png/)
+## Cross Countries Analysis
 Analysis of the US market revealed fluctuations in revenue and net profit, influenced by market dynamics and operational factors. Further investigation is essential to identify underlying causes and optimize performance.
 
-### Overview
-This report outlines the analysis and planning process conducted to understand the significant changes in the financial performance of Company A, specifically focusing on the USA market. The period of interest includes the fourth quarter of 2019 (Q4 2019) and the first quarter of 2020 (Q1 2020).
+![Countries](/assets/CrossCountry.png/)
 
 ### Key Findings
 - **Sales Revenue Decline**: The sales revenue in the USA experienced a significant decrease from $240,835 million in Q4 2019 to a lower figure in Q1 2020.
@@ -80,9 +78,5 @@ Based on the findings from the analysis, the following strategic plan was develo
 - **Targeted Marketing**: Increase marketing efforts in high-potential segments and leverage data analytics to target key customer groups.
 - **Sales Incentives**: Introduce sales incentives and training programs to boost sales team performance and drive revenue growth.
 
-### 4. Geographic Diversification
-- **Market Expansion**: Identify and prioritize growth opportunities in under-penetrated regions with higher profitability potential.
-- **Localized Strategies**: Develop region-specific strategies to cater to unique market demands and preferences.
-
 ## Conclusion
-The significant decline in the financial performance of the USA market in Q1 2020 requires a multifaceted approach to address the underlying issues. By focusing on cost optimization, revenue enhancement, targeted marketing, and geographic diversification, Company A can mitigate the impact of these challenges and improve its financial health. Continuous monitoring and analysis will be essential to ensure the effectiveness of these strategies and to make data-driven adjustments as needed.
+The significant decline in the financial performance of the USA market in Q1 2020 requires a multifaceted approach to address the underlying issues. By focusing on cost optimization, revenue enhancement, and targeted marketing. Company A can mitigate the impact of these challenges and improve its financial health. Continuous monitoring and analysis will be essential to ensure the effectiveness of these strategies and to make data-driven adjustments as needed.
